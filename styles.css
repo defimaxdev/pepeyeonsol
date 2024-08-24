@@ -161,6 +161,13 @@ footer {
     transform: scale(0.98);
 }
 
+
+.visitors{
+    max-width: 100px;
+    max-height: 45px;
+}
+
+
 /* Media Queries */
 @media (max-width: 768px) {
     h1 {
